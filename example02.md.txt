@@ -1,2 +1,0 @@
-The Droids are AI Powered with a single objective to destroy the Player.
-The Droids can be reprogrammed to assist the Player.
