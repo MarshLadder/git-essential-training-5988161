@@ -1,0 +1,1 @@
+The Gladiator skins can be customized.
